@@ -1,0 +1,33 @@
+body{
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: monospace;
+}
+
+.heading{
+    font-size:30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bolder;
+    letter-spacing: 2px;
+    width:100%;
+    margin:0px;
+    padding:14px;
+    box-shadow:0px 5px 8px white;
+}
+
+p{
+    font-size: small;
+}
+
+#song_name{
+    color:white;
+    border:3px dashed white;
+    border-radius:20px;
+    width:fit-content;
+    padding:7px;
+}
+
+canvas{
+    box-shadow:1px 1px 8px 0 white;
+    border-radius:20px;
+}
